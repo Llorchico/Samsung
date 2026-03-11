@@ -1,4 +1,5 @@
 #EXTM3U
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="AT48000012I" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20260224T030248SQUARE.png" group-title="Entertainment" tvg-chno="4001",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-AT48000012I
 #EXTINF:-1 tvg-id="AT4800002G5" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260224T030251SQUARE.png" group-title="Serien" tvg-chno="4002",Hudson & Rex
@@ -12,6 +13,21 @@ https://jmp2.uk/stvp-AT2600004LH
 #EXTINF:-1 tvg-id="ATBD800001VA" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20251125T100530SQUARE.png" group-title="News" tvg-chno="4006",CNN
 https://jmp2.uk/stvp-ATBD800001VA
 #EXTINF:-1 tvg-id="ATBD41000046O" tvg-name="Comedy Mix [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20260127T040720SQUARE.png" group-title="Entertainment" tvg-chno="4007" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=ATBD41000046O&drm-type=widevine",Comedy Mix [DRM]
+=======
+#EXTINF:-1 tvg-id="AT48000012I" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20260310T031250SQUARE.png" group-title="Entertainment" tvg-chno="4001",Hochzeit auf den ersten Blick
+https://jmp2.uk/stvp-AT48000012I
+#EXTINF:-1 tvg-id="AT4800002G5" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260310T031253SQUARE.png" group-title="Serien" tvg-chno="4002",Hudson & Rex
+https://jmp2.uk/stvp-AT4800002G5
+#EXTINF:-1 tvg-id="AT3700006RS" tvg-name="The Good Wife" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700006RS_20260310T031307SQUARE.png" group-title="Serien" tvg-chno="4003",The Good Wife
+https://jmp2.uk/stvp-AT3700006RS
+#EXTINF:-1 tvg-id="AT26000054S" tvg-name="Actionfilme - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT26000054S_20260310T031243SQUARE.png" group-title="Filme" tvg-chno="4004",Actionfilme - Rakuten TV
+https://jmp2.uk/stvp-AT26000054S
+#EXTINF:-1 tvg-id="AT2600004LH" tvg-name="Drama Filme - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600004LH_20260310T032302SQUARE.png" group-title="Filme" tvg-chno="4005",Drama Filme - Rakuten TV
+https://jmp2.uk/stvp-AT2600004LH
+#EXTINF:-1 tvg-id="ATBD800001VA" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20251125T100530SQUARE.png" group-title="News" tvg-chno="4006",CNN
+https://jmp2.uk/stvp-ATBD800001VA
+#EXTINF:-1 tvg-id="ATBD41000046O" tvg-name="Comedy Mix [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20260310T031246SQUARE.png" group-title="Entertainment" tvg-chno="4007" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=ATBD41000046O&drm-type=widevine",Comedy Mix [DRM]
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 https://jmp2.uk/stvp-ATBD41000046O
 #EXTINF:-1 tvg-id="AT30000053R" tvg-name="Dating hinter Gittern" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT30000053R_20251111T013636SQUARE.png" group-title="Entertainment" tvg-chno="4072",Dating hinter Gittern
 https://jmp2.uk/stvp-AT30000053R
@@ -27,7 +43,11 @@ https://jmp2.uk/stvp-AT2800001N5
 https://jmp2.uk/stvp-AT500002TW
 #EXTINF:-1 tvg-id="AT3800001SY" tvg-name="Dhar Mann TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3800001SY_20251111T013639SQUARE.png" group-title="Entertainment" tvg-chno="4157",Dhar Mann TV
 https://jmp2.uk/stvp-AT3800001SY
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="AT32000109U" tvg-name="Ladykracher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT32000109U_20260210T035551SQUARE.png" group-title="Entertainment" tvg-chno="4158",Ladykracher
+=======
+#EXTINF:-1 tvg-id="AT32000109U" tvg-name="Ladykracher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT32000109U_20260310T031257SQUARE.png" group-title="Entertainment" tvg-chno="4158",Ladykracher
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 https://jmp2.uk/stvp-AT32000109U
 #EXTINF:-1 tvg-id="ATAK3504510A" tvg-name="Comedy Central Pluto TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504510A_20250107T021602SQUARE.png" group-title="Entertainment" tvg-chno="4160",Comedy Central Pluto TV
 https://jmp2.uk/stvp-ATAK3504510A
@@ -129,7 +149,11 @@ https://jmp2.uk/stvp-ATBA1500028F9
 https://jmp2.uk/stvp-ATAJ70000866
 #EXTINF:-1 tvg-id="ATAK3504503A" tvg-name="Pluto TV Science" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504503A_20250107T021840SQUARE.png" group-title="Dokus & Wissen" tvg-chno="4435",Pluto TV Science
 https://jmp2.uk/stvp-ATAK3504503A
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ATBA3300031VR" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260224T030228SQUARE.png" group-title="Dokus & Wissen" tvg-chno="4486",Wilder Planet
+=======
+#EXTINF:-1 tvg-id="ATBA3300031VR" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260310T031236SQUARE.png" group-title="Dokus & Wissen" tvg-chno="4486",Wilder Planet
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 https://jmp2.uk/stvp-ATBA3300031VR
 #EXTINF:-1 tvg-id="ATBA1500021SL" tvg-name="One Terra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500021SL_20250107T021810SQUARE.png" group-title="Dokus & Wissen" tvg-chno="4490",One Terra
 https://jmp2.uk/stvp-ATBA1500021SL
@@ -169,7 +193,11 @@ https://jmp2.uk/stvp-AT3300002K2
 https://jmp2.uk/stvp-ATBA2200008XN
 #EXTINF:-1 tvg-id="ATBD2600009FE" tvg-name="More than Sports TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600009FE_20250107T022144SQUARE.png" group-title="Auto & Motor" tvg-chno="4607",More than Sports TV
 https://jmp2.uk/stvp-ATBD2600009FE
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ATBD1500003ES" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20260127T100108SQUARE.png" group-title="Sport" tvg-chno="4609",Red Bull TV
+=======
+#EXTINF:-1 tvg-id="ATBD1500003ES" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20260310T031300SQUARE.png" group-title="Sport" tvg-chno="4609",Red Bull TV
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 https://jmp2.uk/stvp-ATBD1500003ES
 #EXTINF:-1 tvg-id="ATAJ0500433A" tvg-name="Sportdigital Free" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500433A_20250527T015549SQUARE.png" group-title="Sport" tvg-chno="4611",Sportdigital Free
 https://jmp2.uk/stvp-ATAJ0500433A
@@ -179,7 +207,11 @@ https://jmp2.uk/stvp-ATBC4700001JX
 https://jmp2.uk/stvp-AT1100003X6
 #EXTINF:-1 tvg-id="ATBA3300007PT" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300007PT_20250513T005116SQUARE.png" group-title="Fußball" tvg-chno="4639",FIFA+
 https://jmp2.uk/stvp-ATBA3300007PT
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ATBD26000124P" tvg-name="Scooore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD26000124P_20250107T022211SQUARE.png" group-title="Fußball" tvg-chno="4641",Scooore
+=======
+#EXTINF:-1 tvg-id="ATBD26000124P" tvg-name="Scooore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD26000124P_20260310T031304SQUARE.png" group-title="Fußball" tvg-chno="4641",Scooore
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 https://jmp2.uk/stvp-ATBD26000124P
 #EXTINF:-1 tvg-id="ATBD2300001PY" tvg-name="Sport 1 Motor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2300001PY_20250107T022216SQUARE.png" group-title="Sport" tvg-chno="4658",Sport 1 Motor
 https://jmp2.uk/stvp-ATBD2300001PY
@@ -271,7 +303,11 @@ https://jmp2.uk/stvp-ATBA1500010H3
 https://jmp2.uk/stvp-ATAK3504514A
 #EXTINF:-1 tvg-id="AT33000033D" tvg-name="Hochspannung" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT33000033D_20251209T004005SQUARE.png" group-title="Filme" tvg-chno="4994",Hochspannung
 https://jmp2.uk/stvp-AT33000033D
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="AT300007S8" tvg-name="Sony One Action HITS [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300007S8_20260224T030257SQUARE.png" group-title="Filme" tvg-chno="4996" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=AT300007S8&drm-type=widevine",Sony One Action HITS [DRM]
+=======
+#EXTINF:-1 tvg-id="AT300007S8" tvg-name="Sony One Action HITS [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300007S8_20260310T032310SQUARE.png" group-title="Filme" tvg-chno="4996" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=AT300007S8&drm-type=widevine",Sony One Action HITS [DRM]
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 https://jmp2.uk/stvp-AT300007S8
 #EXTINF:-1 tvg-id="AT2600009ON" tvg-name="Komödien - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600009ON_20260224T030254SQUARE.png" group-title="Filme" tvg-chno="4998",Komödien - Rakuten TV
 https://jmp2.uk/stvp-AT2600009ON

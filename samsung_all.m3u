@@ -654,6 +654,7 @@ https://jmp2.uk/stvp-IN2100008VF
 #EXTINF:-1 tvg-id="IN3900006S6" tvg-name="News State MP CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900006S6_20251015T010542SQUARE.png" group-title="Regional News" tvg-chno="1472",News State MP CG
 
 https://jmp2.uk/stvp-IN3900006S6
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ES400002P5" tvg-name="Cuéntame cómo pasó" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260224T030751SQUARE.png" group-title="Serie" tvg-chno="4001",Cuéntame cómo pasó
 
 https://jmp2.uk/stvp-ES400002P5
@@ -663,6 +664,17 @@ https://jmp2.uk/stvp-ES400002P5
 https://jmp2.uk/stvp-ESBC2700002LO
 
 #EXTINF:-1 tvg-id="ES33000036Q" tvg-name="RTVE La Moderna" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260224T030806SQUARE.png" group-title="Serie" tvg-chno="4003",RTVE La Moderna
+=======
+#EXTINF:-1 tvg-id="ES400002P5" tvg-name="Cuéntame cómo pasó" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260310T031624SQUARE.png" group-title="Serie" tvg-chno="4001",Cuéntame cómo pasó
+
+https://jmp2.uk/stvp-ES400002P5
+
+#EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260310T031628SQUARE.png" group-title="Cine" tvg-chno="4002",Grjngo - Películas Del Oeste
+
+https://jmp2.uk/stvp-ESBC2700002LO
+
+#EXTINF:-1 tvg-id="ES33000036Q" tvg-name="RTVE La Moderna" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260310T031635SQUARE.png" group-title="Serie" tvg-chno="4003",RTVE La Moderna
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-ES33000036Q
 
@@ -974,7 +986,11 @@ https://jmp2.uk/stvp-ES300033TI
 
 https://jmp2.uk/stvp-ESBC27000040I
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ES33000079W" tvg-name="RTVE Cocina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260210T035850SQUARE.png" group-title="Viajes y Cocina" tvg-chno="4518",RTVE Cocina
+=======
+#EXTINF:-1 tvg-id="ES33000079W" tvg-name="RTVE Cocina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260310T031631SQUARE.png" group-title="Viajes y Cocina" tvg-chno="4518",RTVE Cocina
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-ES33000079W
 
@@ -982,7 +998,11 @@ https://jmp2.uk/stvp-ES33000079W
 
 https://jmp2.uk/stvp-ESBC4100004J1
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ES300034BT" tvg-name="Actualidad 360" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20250307T152150SQUARE.png" group-title="Noticias" tvg-chno="4552",Actualidad 360
+=======
+#EXTINF:-1 tvg-id="ES300034BT" tvg-name="Actualidad 360" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260310T031621SQUARE.png" group-title="Noticias" tvg-chno="4552",Actualidad 360
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-ES300034BT
 
@@ -1274,7 +1294,11 @@ https://jmp2.uk/stvp-ESBD8000033W
 
 https://jmp2.uk/stvp-ES260000700
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ES300007KS" tvg-name="Sony One Hits Comedia [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20260224T030815SQUARE.png" group-title="Cine" tvg-chno="4910" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=ES300007KS&drm-type=widevine",Sony One Hits Comedia [DRM]
+=======
+#EXTINF:-1 tvg-id="ES300007KS" tvg-name="Sony One Hits Comedia [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20260310T031638SQUARE.png" group-title="Cine" tvg-chno="4910" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=ES300007KS&drm-type=widevine",Sony One Hits Comedia [DRM]
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-ES300007KS
 
@@ -1339,6 +1363,7 @@ https://jmp2.uk/stvp-ES2600003UM
 https://jmp2.uk/stvp-ES2600004BD
 https://jmp2.uk/stvp-CABC2300004A4
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CA21000060M" tvg-name="Smosh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA21000060M_20260303T070530SQUARE.png" group-title="Comedy" tvg-chno="1001",Smosh
 
 https://jmp2.uk/stvp-CA21000060M
@@ -1352,6 +1377,21 @@ https://jmp2.uk/stvp-CA4700018BI
 https://jmp2.uk/stvp-CA3400002KP
 
 #EXTINF:-1 tvg-id="CABA8000080J" tvg-name="Total Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA8000080J_20260303T070508SQUARE.png" group-title="Crime" tvg-chno="1004",Total Crime
+=======
+#EXTINF:-1 tvg-id="CA21000060M" tvg-name="Smosh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA21000060M_20260310T031516SQUARE.png" group-title="Comedy" tvg-chno="1001",Smosh
+
+https://jmp2.uk/stvp-CA21000060M
+
+#EXTINF:-1 tvg-id="CA4700018BI" tvg-name="Deal Zone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700018BI_20260310T031456SQUARE.png" group-title="Reality TV" tvg-chno="1002",Deal Zone
+
+https://jmp2.uk/stvp-CA4700018BI
+
+#EXTINF:-1 tvg-id="CA3400002KP" tvg-name="Dog Whisperer" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3400002KP_20260310T031501SQUARE.png" group-title="Nature, History & Science" tvg-chno="1003",Dog Whisperer
+
+https://jmp2.uk/stvp-CA3400002KP
+
+#EXTINF:-1 tvg-id="CABA8000080J" tvg-name="Total Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA8000080J_20260310T031428SQUARE.png" group-title="Crime" tvg-chno="1004",Total Crime
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-CABA8000080J
 
@@ -1413,7 +1453,11 @@ https://jmp2.uk/stvp-CA4600002Z5
 
 https://jmp2.uk/stvp-CA4600005WZ
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CA46000116C" tvg-name="CBC News Saskatchewan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA46000116C_20250401T004738SQUARE.png" group-title="News & Opinion" tvg-chno="1133",CBC News Saskatchewan
+=======
+#EXTINF:-1 tvg-id="CA46000116C" tvg-name="CBC News Saskatchewan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA46000116C_20260310T031450SQUARE.png" group-title="News & Opinion" tvg-chno="1133",CBC News Saskatchewan
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-CA46000116C
 
@@ -1461,7 +1505,11 @@ https://jmp2.uk/stvp-CA18000032W
 
 https://jmp2.uk/stvp-CA2000005K2
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CABD1700002R4" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260303T094637SQUARE.png" group-title="Comedy" tvg-chno="1318",Conan O'Brien TV
+=======
+#EXTINF:-1 tvg-id="CABD1700002R4" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260310T031452SQUARE.png" group-title="Comedy" tvg-chno="1318",Conan O'Brien TV
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-CABD1700002R4
 
@@ -1573,13 +1621,21 @@ https://jmp2.uk/stvp-CA4700015P1
 
 https://jmp2.uk/stvp-CABB2600009WE
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CA4700017S7" tvg-name="The First 48" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700017S7_20260210T002327SQUARE.png" group-title="Crime" tvg-chno="1832",The First 48
+=======
+#EXTINF:-1 tvg-id="CA4700017S7" tvg-name="The First 48" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700017S7_20260310T031519SQUARE.png" group-title="Crime" tvg-chno="1832",The First 48
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-CA4700017S7
 
 https://jmp2.uk/stvp-CAAJ2700012PP
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CAAJ27000135F" tvg-name="Unsolved Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000135F_20260303T094537SQUARE.png" group-title="Crime" tvg-chno="1865",Unsolved Mysteries
+=======
+#EXTINF:-1 tvg-id="CAAJ27000135F" tvg-name="Unsolved Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000135F_20260310T031441SQUARE.png" group-title="Crime" tvg-chno="1865",Unsolved Mysteries
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-CAAJ27000135F
 
@@ -1767,7 +1823,11 @@ https://jmp2.uk/stvp-CA2600004XW
 
 https://jmp2.uk/stvp-CA1400001PI
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CA36000019W" tvg-name="The NBA Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA36000019W_20251209T010228SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2317",The NBA Channel
+=======
+#EXTINF:-1 tvg-id="CA36000019W" tvg-name="The NBA Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA36000019W_20260310T031521SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2317",The NBA Channel
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-CA36000019W
 
@@ -1959,11 +2019,19 @@ https://jmp2.uk/stvp-CAAJ2700027GW
 
 https://jmp2.uk/stvp-CABC2300021DQ
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CABB2500023RK" tvg-name="Deal or No Deal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500023RK_20260203T191211SQUARE.png" group-title="Game Shows" tvg-chno="2830",Deal or No Deal
 
 https://jmp2.uk/stvp-CABB2500023RK
 
 #EXTINF:-1 tvg-id="CA1900002GF" tvg-name="The Ringer from Spotify" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1900002GF_20251104T004719SQUARE.png" group-title="Lifestyle & Pop Culture" tvg-chno="2902",The Ringer from Spotify
+=======
+#EXTINF:-1 tvg-id="CABB2500023RK" tvg-name="Deal or No Deal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500023RK_20260310T031458SQUARE.png" group-title="Game Shows" tvg-chno="2830",Deal or No Deal
+
+https://jmp2.uk/stvp-CABB2500023RK
+
+#EXTINF:-1 tvg-id="CA1900002GF" tvg-name="The Ringer from Spotify" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1900002GF_20260310T031523SQUARE.png" group-title="Lifestyle & Pop Culture" tvg-chno="2902",The Ringer from Spotify
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-CA1900002GF
 
@@ -2017,7 +2085,11 @@ https://jmp2.uk/stvp-CAAJ1700002PA
 
 https://jmp2.uk/stvp-CABC5200021HG
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CA1100002J6" tvg-name="It’s Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1100002J6_20250714T223050SQUARE.png" group-title="Anime & Gaming" tvg-chno="3202",It’s Anime
+=======
+#EXTINF:-1 tvg-id="CA1100002J6" tvg-name="It’s Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1100002J6_20260310T031444SQUARE.png" group-title="Anime & Gaming" tvg-chno="3202",It’s Anime
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-CA1100002J6
 
@@ -2380,6 +2452,7 @@ https://jmp2.uk/stvp-CA2900005KG
 https://jmp2.uk/stvp-CA29000043R
 
 https://jmp2.uk/stvp-CABB260002016
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="IT3000282Q" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20260224T031351SQUARE.png" group-title="Sport" tvg-chno="4001",Motor1
 
 https://jmp2.uk/stvp-IT3000282Q
@@ -2389,6 +2462,17 @@ https://jmp2.uk/stvp-IT3000282Q
 https://jmp2.uk/stvp-IT3800001XM
 
 #EXTINF:-1 tvg-id="ITBC1100008L4" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20260224T031348SQUARE.png" group-title="Film" tvg-chno="4003",Alberto Sordi & Co
+=======
+#EXTINF:-1 tvg-id="IT3000282Q" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20260310T031943SQUARE.png" group-title="Sport" tvg-chno="4001",Motor1
+
+https://jmp2.uk/stvp-IT3000282Q
+
+#EXTINF:-1 tvg-id="IT3800001XM" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260310T031936SQUARE.png" group-title="Film" tvg-chno="4002",Cine Amore
+
+https://jmp2.uk/stvp-IT3800001XM
+
+#EXTINF:-1 tvg-id="ITBC1100008L4" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20260310T031929SQUARE.png" group-title="Film" tvg-chno="4003",Alberto Sordi & Co
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-ITBC1100008L4
 
@@ -2446,7 +2530,11 @@ https://jmp2.uk/stvp-IT800001SW
 
 https://jmp2.uk/stvp-ITBC3500002SJ
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ITBD100000507" tvg-name="City Hunter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD100000507_20241126T043548SQUARE.png" group-title="Anime" tvg-chno="4192",City Hunter
+=======
+#EXTINF:-1 tvg-id="ITBD100000507" tvg-name="City Hunter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD100000507_20260310T031922SQUARE.png" group-title="Anime" tvg-chno="4192",City Hunter
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-ITBD100000507
 
@@ -2624,7 +2712,11 @@ https://jmp2.uk/stvp-ITBA3300022EA
 
 https://jmp2.uk/stvp-ITBD1500002NL
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="IT3200004WU" tvg-name="Rai News 24" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20260224T031353SQUARE.png" group-title="News" tvg-chno="4553",Rai News 24
+=======
+#EXTINF:-1 tvg-id="IT3200004WU" tvg-name="Rai News 24" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20260310T031946SQUARE.png" group-title="News" tvg-chno="4553",Rai News 24
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-IT3200004WU
 
@@ -2838,7 +2930,11 @@ https://jmp2.uk/stvp-ITBA14000093A
 
 https://jmp2.uk/stvp-ITBC1100003KC
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ITBD1400003D0" tvg-name="Cinemadame" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260210T040135SQUARE.png" group-title="Film" tvg-chno="4873",Cinemadame
+=======
+#EXTINF:-1 tvg-id="ITBD1400003D0" tvg-name="Cinemadame" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260310T031939SQUARE.png" group-title="Film" tvg-chno="4873",Cinemadame
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-ITBD1400003D0
 
@@ -2969,12 +3065,17 @@ https://jmp2.uk/stvp-IT2600005ZN
 #EXTINF:-1 tvg-id="IT2600003FM" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600003FM_20240827T040705SQUARE.png" group-title="Film" tvg-chno="4999",Film d'azione - Rakuten TV
 
 https://jmp2.uk/stvp-IT2600003FM
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="US300068X7" tvg-name="Samsung Television Network [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260303T070433SQUARE.png" group-title="Action & Drama" tvg-chno="1000" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US300068X7&drm-type=widevine",Samsung Television Network [DRM]
+=======
+#EXTINF:-1 tvg-id="US300068X7" tvg-name="Samsung Television Network [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260310T031347SQUARE.png" group-title="Action & Drama" tvg-chno="1000" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US300068X7&drm-type=widevine",Samsung Television Network [DRM]
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-US300068X7
 
 https://jmp2.uk/stvp-US2000010PO
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="US1900005VB" tvg-name="Oxygen True Crimes Archive [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260303T094040SQUARE.png" group-title="Crime" tvg-chno="1002" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Oxygen True Crimes Archive [DRM]
 
 https://jmp2.uk/stvp-US1900005VB
@@ -2984,6 +3085,17 @@ https://jmp2.uk/stvp-US1900005VB
 https://jmp2.uk/stvp-US47000287B
 
 #EXTINF:-1 tvg-id="US25000075Y" tvg-name="CW FOREVER" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260303T070417SQUARE.png" group-title="Action & Drama" tvg-chno="1004",CW FOREVER
+=======
+#EXTINF:-1 tvg-id="US1900005VB" tvg-name="Oxygen True Crimes Archive [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260310T031339SQUARE.png" group-title="Crime" tvg-chno="1002" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Oxygen True Crimes Archive [DRM]
+
+https://jmp2.uk/stvp-US1900005VB
+
+#EXTINF:-1 tvg-id="US47000287B" tvg-name="Rachael Ray Presents" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260310T031345SQUARE.png" group-title="Home & Food" tvg-chno="1003",Rachael Ray Presents
+
+https://jmp2.uk/stvp-US47000287B
+
+#EXTINF:-1 tvg-id="US25000075Y" tvg-name="CW FOREVER" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260310T031307SQUARE.png" group-title="Action & Drama" tvg-chno="1004",CW FOREVER
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-US25000075Y
 
@@ -3073,7 +3185,11 @@ https://jmp2.uk/stvp-USBA30002142
 
 https://jmp2.uk/stvp-US3300008FX
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="USBA3000041ZP" tvg-name="Movie Hub [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260303T093921SQUARE.png" group-title="Movies" tvg-chno="1200" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=USBA3000041ZP&drm-type=widevine",Movie Hub [DRM]
+=======
+#EXTINF:-1 tvg-id="USBA3000041ZP" tvg-name="Movie Hub [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260310T031242SQUARE.png" group-title="Movies" tvg-chno="1200" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=USBA3000041ZP&drm-type=widevine",Movie Hub [DRM]
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-USBA3000041ZP
 
@@ -3101,7 +3217,11 @@ https://jmp2.uk/stvp-USBD270001633
 
 https://jmp2.uk/stvp-USBB5200019FO
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="US1600002OK" tvg-name="Lifetime Movies Love & Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260224T212703SQUARE.png" group-title="Movies" tvg-chno="1226",Lifetime Movies Love & Drama
+=======
+#EXTINF:-1 tvg-id="US1600002OK" tvg-name="Lifetime Movies Love & Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260310T031227SQUARE.png" group-title="Movies" tvg-chno="1226",Lifetime Movies Love & Drama
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-US1600002OK
 
@@ -3113,7 +3233,11 @@ https://jmp2.uk/stvp-USBD17000117B
 
 https://jmp2.uk/stvp-USBA300017PK
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="US18000163F" tvg-name="Miramax Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png" group-title="Movies" tvg-chno="1237",Miramax Channel
+=======
+#EXTINF:-1 tvg-id="US18000163F" tvg-name="Miramax Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260310T031336SQUARE.png" group-title="Movies" tvg-chno="1237",Miramax Channel
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-US18000163F
 
@@ -4439,11 +4563,19 @@ https://jmp2.uk/stvp-US2200001IY
 
 https://jmp2.uk/stvp-US22000020U
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="USAJ3504719A" tvg-name="Sony One Competencias" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20241210T231512SQUARE.png" group-title="Latino" tvg-chno="3890",Sony One Competencias
 
 https://jmp2.uk/stvp-USAJ3504719A
 
 #EXTINF:-1 tvg-id="USAJ3000002OC" tvg-name="Sony One Novelas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20241119T232803SQUARE.png" group-title="Latino" tvg-chno="3894",Sony One Novelas
+=======
+#EXTINF:-1 tvg-id="USAJ3504719A" tvg-name="Sony One Competencias" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20260310T031236SQUARE.png" group-title="Latino" tvg-chno="3890",Sony One Competencias
+
+https://jmp2.uk/stvp-USAJ3504719A
+
+#EXTINF:-1 tvg-id="USAJ3000002OC" tvg-name="Sony One Novelas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20260310T031532SQUARE.png" group-title="Latino" tvg-chno="3894",Sony One Novelas
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-USAJ3000002OC
 
@@ -4513,7 +4645,11 @@ https://jmp2.uk/stvp-USBD2700003F3
 
 https://jmp2.uk/stvp-USBD1700015J1
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="Noticias Univision 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title="Latino" tvg-chno="3987",Noticias Univision 24/7
+=======
+#EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="Noticias Univision 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20260310T031252SQUARE.png" group-title="Latino" tvg-chno="3987",Noticias Univision 24/7
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-USBD1700014QU
 
@@ -5383,11 +5519,19 @@ https://jmp2.uk/stvp-KR400005KB
 
 https://jmp2.uk/stvp-DEBC4700002Z2
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="DEBA3300042XG" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260224T030434SQUARE.png" group-title="Dokus & Wissen" tvg-chno="4002",Wilder Planet
 
 https://jmp2.uk/stvp-DEBA3300042XG
 
 #EXTINF:-1 tvg-id="DE400010IF" tvg-name="DF1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20260224T030508SQUARE.png" group-title="Sport" tvg-chno="4003",DF1
+=======
+#EXTINF:-1 tvg-id="DEBA3300042XG" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260310T031421SQUARE.png" group-title="Dokus & Wissen" tvg-chno="4002",Wilder Planet
+
+https://jmp2.uk/stvp-DEBA3300042XG
+
+#EXTINF:-1 tvg-id="DE400010IF" tvg-name="DF1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20260310T031442SQUARE.png" group-title="Sport" tvg-chno="4003",DF1
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-DE400010IF
 
@@ -5403,7 +5547,11 @@ https://jmp2.uk/stvp-DE2600004U3
 
 https://jmp2.uk/stvp-DEBD800001S4
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="DEBC3000002Z5" tvg-name="Comedy Mix [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000002Z5_20260224T030458SQUARE.png" group-title="Entertainment" tvg-chno="4008" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=DEBC3000002Z5&drm-type=widevine",Comedy Mix [DRM]
+=======
+#EXTINF:-1 tvg-id="DEBC3000002Z5" tvg-name="Comedy Mix [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000002Z5_20260310T031438SQUARE.png" group-title="Entertainment" tvg-chno="4008" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=DEBC3000002Z5&drm-type=widevine",Comedy Mix [DRM]
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-DEBC3000002Z5
 
@@ -5531,7 +5679,11 @@ https://jmp2.uk/stvp-DE300003AV
 
 https://jmp2.uk/stvp-DE300005NB
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="DE3700008VR" tvg-name="The Good Wife" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700008VR_20251125T102315SQUARE.png" group-title="Serien" tvg-chno="4252",The Good Wife
+=======
+#EXTINF:-1 tvg-id="DE3700008VR" tvg-name="The Good Wife" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700008VR_20260310T031449SQUARE.png" group-title="Serien" tvg-chno="4252",The Good Wife
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-DE3700008VR
 
@@ -5571,7 +5723,11 @@ https://jmp2.uk/stvp-DE33000013J
 
 https://jmp2.uk/stvp-DE400011F2
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="DE4800002GM" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20260203T045944SQUARE.png" group-title="Serien" tvg-chno="4291",Hudson & Rex
+=======
+#EXTINF:-1 tvg-id="DE4800002GM" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20260310T031435SQUARE.png" group-title="Serien" tvg-chno="4291",Hudson & Rex
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-DE4800002GM
 
@@ -5901,7 +6057,11 @@ https://jmp2.uk/stvp-DEBA3300039TT
 
 https://jmp2.uk/stvp-DEBD5000001VL
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="DEBA3300034HH" tvg-name="wedo movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20250107T024240SQUARE.png" group-title="Filme" tvg-chno="4872",wedo movies
+=======
+#EXTINF:-1 tvg-id="DEBA3300034HH" tvg-name="wedo movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20260310T031428SQUARE.png" group-title="Filme" tvg-chno="4872",wedo movies
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-DEBA3300034HH
 
@@ -6285,7 +6445,11 @@ https://jmp2.uk/stvp-AT300007S8
 https://jmp2.uk/stvp-AT2600009ON
 
 https://jmp2.uk/stvp-AT260000326
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="FRBD4800001P4" tvg-name="J'irai dormir chez vous" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260224T030937SQUARE.png" group-title="Documentaires" tvg-chno="4001",J'irai dormir chez vous
+=======
+#EXTINF:-1 tvg-id="FRBD4800001P4" tvg-name="J'irai dormir chez vous" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentaires" tvg-chno="4001",J'irai dormir chez vous
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-FRBD4800001P4
 
@@ -6303,7 +6467,11 @@ https://jmp2.uk/stvp-FR2600004SS
 
 https://jmp2.uk/stvp-FR2600007CB
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="FRBC800001X0" tvg-name="Fréquence Novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20260224T030934SQUARE.png" group-title="Séries TV" tvg-chno="4006",Fréquence Novelas
+=======
+#EXTINF:-1 tvg-id="FRBC800001X0" tvg-name="Fréquence Novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20260310T031725SQUARE.png" group-title="Séries TV" tvg-chno="4006",Fréquence Novelas
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-FRBC800001X0
 
@@ -6511,7 +6679,11 @@ https://jmp2.uk/stvp-FR3600007GW
 
 https://jmp2.uk/stvp-FR1400002XF
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="FRBB49000033R" tvg-name="Homicide" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20250902T003711SQUARE.png" group-title="Crime" tvg-chno="4297",Homicide
+=======
+#EXTINF:-1 tvg-id="FRBB49000033R" tvg-name="Homicide" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20260310T031729SQUARE.png" group-title="Crime" tvg-chno="4297",Homicide
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-FRBB49000033R
 
@@ -6815,7 +6987,11 @@ https://jmp2.uk/stvp-FR4600001FK
 
 https://jmp2.uk/stvp-FR3700003N4
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="FR3700001AG" tvg-name="Box Office Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20251028T011454SQUARE.png" group-title="Cinéma" tvg-chno="4964",Box Office Thriller
+=======
+#EXTINF:-1 tvg-id="FR3700001AG" tvg-name="Box Office Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20260310T031722SQUARE.png" group-title="Cinéma" tvg-chno="4964",Box Office Thriller
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-FR3700001AG
 
@@ -6918,7 +7094,11 @@ https://jmp2.uk/stvp-CHAJ700007XE
 
 https://jmp2.uk/stvp-CH37000057T
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="CHBD3700002F2" tvg-name="Plus belle la vie [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700002F2_20250107T031520SQUARE.png" group-title="Serien" tvg-chno="4250",Plus belle la vie [FR]
+=======
+#EXTINF:-1 tvg-id="CHBD3700002F2" tvg-name="Plus belle la vie [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700002F2_20260310T031353SQUARE.png" group-title="Serien" tvg-chno="4250",Plus belle la vie [FR]
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-CHBD3700002F2
 
@@ -7169,6 +7349,7 @@ https://jmp2.uk/stvp-CH3300002MN
 https://jmp2.uk/stvp-CH2600002VE
 
 https://jmp2.uk/stvp-CH2600004R1
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="GB300008I8" tvg-name="Sony One Dragons Den [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260224T031215SQUARE.png" group-title="Reality" tvg-chno="4001" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB300008I8&drm-type=widevine",Sony One Dragons Den [DRM]
 
 https://jmp2.uk/stvp-GB300008I8
@@ -7178,6 +7359,17 @@ https://jmp2.uk/stvp-GB300008I8
 https://jmp2.uk/stvp-GB29000059T
 
 #EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="Comedy Hub [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20260224T031137SQUARE.png" group-title="Entertainment" tvg-chno="4003" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GBBD25000038Y&drm-type=widevine",Comedy Hub [DRM]
+=======
+#EXTINF:-1 tvg-id="GB300008I8" tvg-name="Sony One Dragons Den [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260310T031842SQUARE.png" group-title="Reality" tvg-chno="4001" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB300008I8&drm-type=widevine",Sony One Dragons Den [DRM]
+
+https://jmp2.uk/stvp-GB300008I8
+
+#EXTINF:-1 tvg-id="GB29000059T" tvg-name="Location Location Location" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB29000059T_20260310T031835SQUARE.png" group-title="Reality" tvg-chno="4002",Location Location Location
+
+https://jmp2.uk/stvp-GB29000059T
+
+#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="Comedy Hub [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20260310T031824SQUARE.png" group-title="Entertainment" tvg-chno="4003" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GBBD25000038Y&drm-type=widevine",Comedy Hub [DRM]
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-GBBD25000038Y
 
@@ -7217,7 +7409,11 @@ https://jmp2.uk/stvp-GBBC2300001X5
 
 https://jmp2.uk/stvp-GB3500003E5
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="GB3600002EB" tvg-name="The Osbournes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20251209T004632SQUARE.png" group-title="Reality" tvg-chno="4068",The Osbournes
+=======
+#EXTINF:-1 tvg-id="GB3600002EB" tvg-name="The Osbournes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20260310T031846SQUARE.png" group-title="Reality" tvg-chno="4068",The Osbournes
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-GB3600002EB
 
@@ -7243,7 +7439,11 @@ https://jmp2.uk/stvp-GBBB3800007BN
 
 https://jmp2.uk/stvp-GBBC9000062G
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="GB500006EX" tvg-name="Escape to the Country" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20251125T100007SQUARE.png" group-title="Reality" tvg-chno="4085",Escape to the Country
+=======
+#EXTINF:-1 tvg-id="GB500006EX" tvg-name="Escape to the Country" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20260310T031829SQUARE.png" group-title="Reality" tvg-chno="4085",Escape to the Country
+>>>>>>> 4070db6 (Auto sync: 2026-03-11 18:10:05)
 
 https://jmp2.uk/stvp-GB500006EX
 
