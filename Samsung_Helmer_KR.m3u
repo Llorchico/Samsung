@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/kr.xml.gz"
-#EXTINF:-1 tvg-id="KR1900001KQ" tvg-name="KR1900001KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1900001KQ_20260528T042755SQUARE.png" group-title="실시간" , Samsung Television Network
-https://jmp2.uk/stvp-KR1900001KQ
+#EXTINF:-1 tvg-id="KR2900023XU" tvg-name="KR2900023XU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900023XU_20260716T004513SQUARE.png" group-title="실시간" , Samsung Television Network
+https://jmp2.uk/stvp-KR2900023XU
 #EXTINF:-1 tvg-id="KR3700002JT" tvg-name="KR3700002JT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20260422T012502SQUARE.png" group-title="실시간" , TV조선
 https://jmp2.uk/stvp-KR3700002JT
 #EXTINF:-1 tvg-id="KR22000066Q" tvg-name="KR22000066Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR22000066Q_20260422T012604SQUARE.png" group-title="실시간" , MBN

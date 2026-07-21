@@ -293,12 +293,12 @@ https://jmp2.uk/stvp-GB3200006AZ
 https://jmp2.uk/stvp-GB400003BM
 #EXTINF:-1 tvg-id="GB3300002NF" tvg-name="GB3300002NF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3300002NF_20260707T052102SQUARE.png" group-title="News" , Sky News
 https://jmp2.uk/stvp-GB3300002NF
-#EXTINF:-1 tvg-id="GB2600019ON" tvg-name="GB2600019ON" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20260707T052926SQUARE.png" group-title="News" , Euronews LIVE
-https://jmp2.uk/stvp-GB2600019ON
+#EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20260714T040523SQUARE.png" group-title="News" , CNN
+https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-id="GBBB1600008R3" tvg-name="GBBB1600008R3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20250107T022831SQUARE.png" group-title="News" , GB News
 https://jmp2.uk/stvp-GBBB1600008R3
-#EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20260609T043642SQUARE.png" group-title="News" , CNN
-https://jmp2.uk/stvp-GBBD8000016N
+#EXTINF:-1 tvg-id="GB2600019ON" tvg-name="GB2600019ON" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20260714T040531SQUARE.png" group-title="News" , Euronews LIVE
+https://jmp2.uk/stvp-GB2600019ON
 #EXTINF:-1 tvg-id="GBBD1900008O3" tvg-name="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20260331T032346SQUARE.png" group-title="News" , CNN Headlines International
 https://jmp2.uk/stvp-GBBD1900008O3
 #EXTINF:-1 tvg-id="GB1200006IV" tvg-name="GB1200006IV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200006IV_20250506T021119SQUARE.png" group-title="News" , Talk
@@ -317,7 +317,7 @@ https://jmp2.uk/stvp-GBBB1500004LG
 https://jmp2.uk/stvp-GBBA3300033C2
 #EXTINF:-1 tvg-id="GBBD4900001RG" tvg-name="GBBD4900001RG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4900001RG_20250107T030741SQUARE.png" group-title="News" , Reuters
 https://jmp2.uk/stvp-GBBD4900001RG
-#EXTINF:-1 tvg-id="GB30003577" tvg-name="GB30003577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20260609T043745SQUARE.png" group-title="Sport" , talkSPORT
+#EXTINF:-1 tvg-id="GB30003577" tvg-name="GB30003577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20260721T035939SQUARE.png" group-title="Sport" , talkSPORT
 https://jmp2.uk/stvp-GB30003577
 #EXTINF:-1 tvg-id="GB5200001TM" tvg-name="GB5200001TM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5200001TM_20260421T123838SQUARE.png" group-title="Sport" , DP World Tour
 https://jmp2.uk/stvp-GB5200001TM
@@ -381,7 +381,7 @@ https://jmp2.uk/stvp-GBBD1900009UD
 https://jmp2.uk/stvp-GBBC2100002HP
 #EXTINF:-1 tvg-id="GBBD2300001C0" tvg-name="GBBD2300001C0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music & Ambient" , Vevo Hip Hop & R&B
 https://jmp2.uk/stvp-GBBD2300001C0
-#EXTINF:-1 tvg-id="GBBB3800005QO" tvg-name="GBBB3800005QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20250107T025842SQUARE.png" group-title="Music & Ambient" , XITE Hits
+#EXTINF:-1 tvg-id="GBBB3800005QO" tvg-name="GBBB3800005QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20260721T041129SQUARE.png" group-title="Music & Ambient" , XITE Hits
 https://jmp2.uk/stvp-GBBB3800005QO
 #EXTINF:-1 tvg-id="GB300032DX" tvg-name="GB300032DX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300032DX_20250218T040923SQUARE.png" group-title="Music & Ambient" , Now 70's
 https://jmp2.uk/stvp-GB300032DX
@@ -453,7 +453,7 @@ https://jmp2.uk/stvp-GBBD23000021U
 https://jmp2.uk/stvp-GBBD1300001WA
 #EXTINF:-1 tvg-id="GBBD230000420" tvg-name="GBBD230000420" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD230000420_20250107T030737SQUARE.png" group-title="Kids" , Rabbids Invasion
 https://jmp2.uk/stvp-GBBD230000420
-#EXTINF:-1 tvg-id="GB38000026H" tvg-name="GB38000026H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB38000026H_20260120T031424SQUARE.png" group-title="Kids" , Masha & the Bear
+#EXTINF:-1 tvg-id="GB38000026H" tvg-name="GB38000026H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB38000026H_20260721T094047SQUARE.png" group-title="Kids" , Masha & the Bear
 https://jmp2.uk/stvp-GB38000026H
 #EXTINF:-1 tvg-id="GB2400008GK" tvg-name="GB2400008GK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400008GK_20251016T040107SQUARE.png" group-title="Kids" , Dennis and Gnasher
 https://jmp2.uk/stvp-GB2400008GK
