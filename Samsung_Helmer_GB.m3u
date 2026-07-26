@@ -373,6 +373,8 @@ https://jmp2.uk/stvp-GBBD2900001VD
 https://jmp2.uk/stvp-GBBC90001089
 #EXTINF:-1 tvg-id="GB4200009EC" tvg-name="GB4200009EC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200009EC_20260421T125755SQUARE.png" group-title="Sport" , Racing TV Play
 https://jmp2.uk/stvp-GB4200009EC
+#EXTINF:-1 tvg-id="GBBB3800005QO" tvg-name="GBBB3800005QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20260721T041129SQUARE.png" group-title="Music & Ambient" , XITE Hits
+https://jmp2.uk/stvp-GBBB3800005QO
 #EXTINF:-1 tvg-id="GBBC19000017V" tvg-name="GBBC19000017V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music & Ambient" , Vevo Pop
 https://jmp2.uk/stvp-GBBC19000017V
 #EXTINF:-1 tvg-id="GBBD1900009UD" tvg-name="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music & Ambient" , Vevo '70s & '80s
@@ -381,8 +383,6 @@ https://jmp2.uk/stvp-GBBD1900009UD
 https://jmp2.uk/stvp-GBBC2100002HP
 #EXTINF:-1 tvg-id="GBBD2300001C0" tvg-name="GBBD2300001C0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music & Ambient" , Vevo Hip Hop & R&B
 https://jmp2.uk/stvp-GBBD2300001C0
-#EXTINF:-1 tvg-id="GBBB3800005QO" tvg-name="GBBB3800005QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20260721T041129SQUARE.png" group-title="Music & Ambient" , XITE Hits
-https://jmp2.uk/stvp-GBBB3800005QO
 #EXTINF:-1 tvg-id="GB300032DX" tvg-name="GB300032DX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300032DX_20250218T040923SQUARE.png" group-title="Music & Ambient" , Now 70's
 https://jmp2.uk/stvp-GB300032DX
 #EXTINF:-1 tvg-id="GBBC900003B2" tvg-name="GBBC900003B2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20250107T022856SQUARE.png" group-title="Music & Ambient" , Now 80s
@@ -453,8 +453,8 @@ https://jmp2.uk/stvp-GBBD23000021U
 https://jmp2.uk/stvp-GBBD1300001WA
 #EXTINF:-1 tvg-id="GBBD230000420" tvg-name="GBBD230000420" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD230000420_20250107T030737SQUARE.png" group-title="Kids" , Rabbids Invasion
 https://jmp2.uk/stvp-GBBD230000420
-#EXTINF:-1 tvg-id="GB38000026H" tvg-name="GB38000026H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB38000026H_20260721T094047SQUARE.png" group-title="Kids" , Masha & the Bear
-https://jmp2.uk/stvp-GB38000026H
+#EXTINF:-1 tvg-id="GB22000040Z" tvg-name="GB22000040Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB22000040Z_20260721T035934SQUARE.png" group-title="Kids" , Masha & the Bear
+https://jmp2.uk/stvp-GB22000040Z
 #EXTINF:-1 tvg-id="GB2400008GK" tvg-name="GB2400008GK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400008GK_20251016T040107SQUARE.png" group-title="Kids" , Dennis and Gnasher
 https://jmp2.uk/stvp-GB2400008GK
 #EXTINF:-1 tvg-id="GB370000369" tvg-name="GB370000369" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB370000369_20250107T031224SQUARE.png" group-title="Kids" , Sonic The Hedgehog
