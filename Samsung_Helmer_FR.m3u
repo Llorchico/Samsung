@@ -103,8 +103,10 @@ https://jmp2.uk/stvp-FR1100001V1
 https://jmp2.uk/stvp-FR360000680
 #EXTINF:-1 tvg-id="FR4000001TX" tvg-name="FR4000001TX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000001TX_20251202T002642SQUARE.png" group-title="Séries TV" , Jodha Akbar
 https://jmp2.uk/stvp-FR4000001TX
-#EXTINF:-1 tvg-id="FRBD37000020Y" tvg-name="FRBD37000020Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20261006T034046SQUARE.png" group-title="Séries TV" , Plus belle la vie
+#EXTINF:-1 tvg-id="FRBD37000020Y" tvg-name="FRBD37000020Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20261117T042250SQUARE.png" group-title="Séries TV" , Plus belle la vie
 https://jmp2.uk/stvp-FRBD37000020Y
+#EXTINF:-1 tvg-id="FR3600007GW" tvg-name="FR3600007GW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20261117T042228SQUARE.png" group-title="Crime" , Alerte Cobra
+https://jmp2.uk/stvp-FR3600007GW
 #EXTINF:-1 tvg-id="FR1400002XF" tvg-name="FR1400002XF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20251111T012047SQUARE.png" group-title="Crime" , Faites entrer l'accusé
 https://jmp2.uk/stvp-FR1400002XF
 #EXTINF:-1 tvg-id="FRBB49000033R" tvg-name="FRBB49000033R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20260324T034932SQUARE.png" group-title="Crime" , Homicide
@@ -121,8 +123,6 @@ https://jmp2.uk/stvp-FR300032ZK
 https://jmp2.uk/stvp-FR600002ZR
 #EXTINF:-1 tvg-id="FRBD39000064E" tvg-name="FRBD39000064E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20261110T043812SQUARE.png" group-title="Crime" , 100% Docs Crime
 https://jmp2.uk/stvp-FRBD39000064E
-#EXTINF:-1 tvg-id="FR3600007GW" tvg-name="FR3600007GW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20261006T034032SQUARE.png" group-title="Crime" , Alerte Cobra
-https://jmp2.uk/stvp-FR3600007GW
 #EXTINF:-1 tvg-id="FR3900002FW" tvg-name="FR3900002FW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900002FW_20261110T043818SQUARE.png" group-title="Documentaires" , Au coeur du danger
 https://jmp2.uk/stvp-FR3900002FW
 #EXTINF:-1 tvg-id="FRBD4800001P4" tvg-name="FRBD4800001P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentaires" , J'irai dormir chez vous
@@ -185,6 +185,8 @@ https://jmp2.uk/stvp-FR700007HY
 https://jmp2.uk/stvp-FR1400003Y0
 #EXTINF:-1 tvg-id="FR300005WY" tvg-name="FR300005WY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" group-title="Actualités" , RMC TALK INFO
 https://jmp2.uk/stvp-FR300005WY
+#EXTINF:-1 tvg-id="FR2600013P5" tvg-name="FR2600013P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600013P5_20261117T042244SQUARE.png" group-title="Actualités" , France 24
+https://jmp2.uk/stvp-FR2600013P5
 #EXTINF:-1 tvg-id="FR2600004SS" tvg-name="FR2600004SS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20260707T051656SQUARE.png" group-title="Actualités" , Euronews EN DIRECT
 https://jmp2.uk/stvp-FR2600004SS
 #EXTINF:-1 tvg-id="FR1800005X0" tvg-name="FR1800005X0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800005X0_20251013T054015SQUARE.png" group-title="Actualités" , TV5 Monde Info
@@ -235,14 +237,14 @@ https://jmp2.uk/stvp-FR900002B4
 https://jmp2.uk/stvp-FRBD2900001M3
 #EXTINF:-1 tvg-id="FR4000005KE" tvg-name="FR4000005KE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20261026T042258SQUARE.png" group-title="Musique et ambiance" , Skyrock
 https://jmp2.uk/stvp-FR4000005KE
+#EXTINF:-1 tvg-id="FR3600009YQ" tvg-name="FR3600009YQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600009YQ_20261117T042258SQUARE.png" group-title="Musique et ambiance" , Vevo Noël
+https://jmp2.uk/stvp-FR3600009YQ
 #EXTINF:-1 tvg-id="FRBC2100001YY" tvg-name="FRBC2100001YY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png" group-title="Musique et ambiance" , Vevo Pop
 https://jmp2.uk/stvp-FRBC2100001YY
 #EXTINF:-1 tvg-id="FRBC2100002JA" tvg-name="FRBC2100002JA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20241015T040410SQUARE.png" group-title="Musique et ambiance" , Vevo Hip-Hop & R&B
 https://jmp2.uk/stvp-FRBC2100002JA
 #EXTINF:-1 tvg-id="FRBD1900013CB" tvg-name="FRBD1900013CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png" group-title="Musique et ambiance" , Vevo Rétro
 https://jmp2.uk/stvp-FRBD1900013CB
-#EXTINF:-1 tvg-id="FR3100003KZ" tvg-name="FR3100003KZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100003KZ_20260505T035846SQUARE.png" group-title="Musique et ambiance" , Show ! Variété
-https://jmp2.uk/stvp-FR3100003KZ
 #EXTINF:-1 tvg-id="FR2500001BS" tvg-name="FR2500001BS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2500001BS_20241015T040238SQUARE.png" group-title="Musique et ambiance" , Cool Summer Channel
 https://jmp2.uk/stvp-FR2500001BS
 #EXTINF:-1 tvg-id="FR44000015M" tvg-name="FR44000015M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR44000015M_20260609T043411SQUARE.png" group-title="Musique et ambiance" , Metal.Rocks
@@ -281,8 +283,6 @@ https://jmp2.uk/stvp-FRBD2300002CM
 https://jmp2.uk/stvp-FRBA3300046W4
 #EXTINF:-1 tvg-id="FR2200004HP" tvg-name="FR2200004HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200004HP_20260721T035836SQUARE.png" group-title="Jeunesse" , Masha et Michka
 https://jmp2.uk/stvp-FR2200004HP
-#EXTINF:-1 tvg-id="FRBD1900012T7" tvg-name="FRBD1900012T7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900012T7_20260901T054432SQUARE.png" group-title="Jeunesse" , Charlotte aux Fraises
-https://jmp2.uk/stvp-FRBD1900012T7
 #EXTINF:-1 tvg-id="FRBD5100002NL" tvg-name="FRBD5100002NL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100002NL_20250729T045525SQUARE.png" group-title="Jeunesse" , SuperToons TV
 https://jmp2.uk/stvp-FRBD5100002NL
 #EXTINF:-1 tvg-id="FRAJ3800010QO" tvg-name="FRAJ3800010QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20260622T063917SQUARE.png" group-title="Jeunesse" , Bob l’éponge
@@ -297,6 +297,8 @@ https://jmp2.uk/stvp-FR2400002YG
 https://jmp2.uk/stvp-FR2100002YW
 #EXTINF:-1 tvg-id="FRAJ38000061J" tvg-name="FRAJ38000061J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20241106T142552SQUARE.png" group-title="Jeunesse" , iCarly
 https://jmp2.uk/stvp-FRAJ38000061J
+#EXTINF:-1 tvg-id="FRBD1900012T7" tvg-name="FRBD1900012T7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900012T7_20261117T042236SQUARE.png" group-title="Jeunesse" , Charlotte aux Fraises
+https://jmp2.uk/stvp-FRBD1900012T7
 #EXTINF:-1 tvg-id="FRBB39000020C" tvg-name="FRBB39000020C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20261110T043758SQUARE.png" group-title="Cinéma" , Ciné Nanar
 https://jmp2.uk/stvp-FRBB39000020C
 #EXTINF:-1 tvg-id="FR2600001PI" tvg-name="FR2600001PI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20261102T070350SQUARE.png" group-title="Cinéma" , 100% Noël - Rakuten TV
